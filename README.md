@@ -32,8 +32,8 @@
 </div>
 <div>
     <img src="screenshots/filter_screen.jpg" alt="Filter Screen" width="30%" height="400">
-    <img src="screenshots/search_screen.jpg" alt="search screen" width="30%" height="300">
-    <img src="screenshots/fav_screen.jpg" alt="library screen " width="30%" height="300">
+    <img src="screenshots/search_screen.jpg" alt="search screen" width="30%" height="400">
+    <img src="screenshots/fav_screen.jpg" alt="library screen " width="30%" height="400">
   
 </div>
 
