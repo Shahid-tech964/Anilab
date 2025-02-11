@@ -25,11 +25,18 @@
 
 <h2>📸 Screenshots</h2>
 <div>
-    <img src="screenshots/logo.jpg" alt="Logo Screen" width="200">
-    <img src="screenshots/home_screen.jpg" alt="Filter Screen" width="200">
-    <img src="screenshots/search_screen.jpg" alt="Home Screen" width="200">
+    <img src="screenshots/logo.jpg" alt="Logo Screen" width="30%">
+    <img src="screenshots/home_screen.jpg" alt="Home Screen" width="30%">
+    <img src="screenshots/info_screen.jpg" alt="info screen" width="30%">
   
 </div>
+<div>
+    <img src="screenshots/filter_screen.jpg" alt="Filter Screen" width="30%">
+    <img src="screenshots/search_screen.jpg" alt="search screen" width="30%">
+    <img src="screenshots/fav_screen.jpg" alt="library screen " width="30%">
+  
+</div>
+
 
 <h2>🛠️ Languages & Technologies</h2>
 <ul>
