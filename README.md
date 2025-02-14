@@ -37,12 +37,11 @@
   
 </div>
 
-
 <h2>🛠️ Languages & Technologies</h2>
 <ul>
     <li><strong>Language</strong>: Kotlin</li>
     <li><strong>Technologies</strong>: Jetpack Compose, Retrofit, Hilt, Flow, Coroutines, LiveData,Room Database </li>
 </ul>
 
-<h2>⬇ Download Here</h2>
+
 
