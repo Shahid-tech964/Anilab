@@ -37,10 +37,6 @@
   
 </div>
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/Shahid-tech964/Anilab/releases/download/v1.0.0/app-debug.apk)
-
-
-
 <h2>🛠️ Languages & Technologies</h2>
 <ul>
     <li><strong>Language</strong>: Kotlin</li>
